@@ -6,7 +6,7 @@ import json
 
 DB_PATH = "metrics.db"
 BINANCE_API = "https://api.binance.com/api/v3/ticker/bookTicker?symbol="
-PAIRS = ["BTCUSDT", "ETHUSDT", "ETHBTC"]
+PAIRS = ["BTCUSDT", "ETHUSDT", "ETHBTC", "SOLUSDT", "EURIUSDT", "PAXGUSDT", "ETHEURI", "BTCEURI", "PAXGBTC"]
 POLL_INTERVAL = 5  # seconds
 
 
