@@ -3,3 +3,5 @@ TODO.md
 metrics.db
 .git
 venv
+**/__pycache__
+__pycache__
